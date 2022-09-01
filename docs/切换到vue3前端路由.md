@@ -14,3 +14,5 @@ alter table sys_permission_v3 rename as sys_permission;
 - 第二步：登录进系统
 
 > 从 jeecgboot3.3.0 版本默认 vue3 和 vue2 的权限都已经分配好， 不需要再手工授权。
+
+反反复复付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付付v
